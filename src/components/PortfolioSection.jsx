@@ -48,7 +48,7 @@ const games = [
         status: 'Alpha',
         statusClass: 'alpha',
         accent: '#7b4fff',
-    },
+  gaming  },
     {
         title: 'Aether Racing',
         image: '/images/games/aether-racing.jpg',
